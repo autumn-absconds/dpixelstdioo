@@ -1,0 +1,106 @@
+
+#logo{
+    color: white;
+}
+
+    #Whatsapp{
+        
+        outline: none;
+        border: none;
+        border-radius: 3px;
+        height: 52px;
+        padding: 0 15px;
+        font-size: 20px;
+      
+        min-width: 140px;
+        cursor: pointer;
+        color: white;
+        background-color: green;
+    }
+    #Whatsapp a{
+        color: white;
+        padding-left: 10px;
+    font-size: 19px;    }
+    #Whatsapp:hover{
+        color:green;
+        background-color: whitesmoke;
+        border: 2px solid green;
+    }
+    #Whatsapp a:hover{
+        color:green;
+       
+        
+    }
+    
+    #what{
+        margin-top: 35px;
+        font-size: 5px;
+        color: black;
+    }
+   #social-bar{
+    margin-left: 10px;
+       
+   }
+   #in{
+    font-size: 35px;
+    color: crimson;
+   }
+   #wh{
+    font-size: 35px;
+    color: green;
+   }
+
+   #index-social{
+       margin-left: 5px;
+   }
+
+   #heart{
+      color: red;
+      font-size: 35px;
+      margin-bottom: 20px;
+   }
+   #camera{
+    font-size: 35px;
+    background: -webkit-linear-gradient(rgb(238, 8, 8), rgb(247, 243, 8),rgb(245, 10, 167));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+       color: rgb(71, 46, 139);
+       margin-bottom: 20px;
+   }
+   #videocam{
+    background: -webkit-linear-gradient( rgb(247, 116, 8),rgb(245, 10, 233));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+       color:gray;
+       margin-bottom: 20px;
+   }
+
+   #h_contact{
+       color: hotpink;
+       font-size: 25px;
+   }
+   #send{
+       background-color:hotpink;
+       font-size: 19px;
+   }
+
+    #footer{
+       background: linear-gradient(30deg,#ff9a9e,#fecfef);
+       opacity:0.8 ;
+   }
+
+   #single-footer-content{
+       color: black;
+   }
+   #navv{
+       color: white;
+       font-weight: bold;
+   }
+
+   #copywrite{
+       margin-top: 10px;
+       line-height:0.5;
+       text-align: center;
+   }
+  
